@@ -152,6 +152,9 @@ nav{
     background-color: white;
     /* margin-bottom: 100px; */
 }
+nav li{
+    cursor: pointer;
+}
 .hero-img{
     width: 120px;
 }
