@@ -585,11 +585,7 @@ nav li{
             width: 60%;
             padding: 5px;
         }
-        .cont
-    }
-    @media(max-width:580px){
-
-    }
+}
     @media(max-width:392px){
         .third-part-text{
             /* width: 300px; */
@@ -648,4 +644,4 @@ nav li{
         .ft-contain{
             display: none;
         }
-    }
+}
