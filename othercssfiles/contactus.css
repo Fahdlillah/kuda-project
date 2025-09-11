@@ -354,14 +354,19 @@ nav li{
     display: flex;
     flex-direction: column;
     gap: 1em;
-        padding: 20px 50px;
+        padding: 10px 10px;
 }
 .drop-12{
     display: flex;
     flex-direction: column;
     gap: 1em;
-    padding: 20px 50px;
+    padding: 10px 10px;
     background-color: rgb(241, 234, 234);
+}
+@media(max-width:992px){
+    .dropdown-menu{
+        flex-direction: column;
+    }   
 }
 .mg-top{
     /* margin-top: 10px; */
