@@ -17,6 +17,9 @@
     font-size: 12px;
     font-weight: 7px;
 }
+.napa{
+    position: fixed;
+}
 .first-text h1{
     color: rgb(65, 25, 110);
     font-size: 55px;

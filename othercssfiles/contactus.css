@@ -152,6 +152,9 @@ nav{
     background-color: white;
     /* margin-bottom: 100px; */
 }
+.napa{
+    position: fixed;
+}
 nav li{
     cursor: pointer;
 }

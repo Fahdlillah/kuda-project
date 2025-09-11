@@ -19,6 +19,9 @@
     left: 150px;
     top: 150px;
 }
+.napa{
+    position: fixed;
+}
 .left-part{
     display: flex;
     /* flex-direction: column; */
