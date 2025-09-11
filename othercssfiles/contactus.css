@@ -363,6 +363,14 @@ nav li{
     padding: 10px 10px;
     background-color: rgb(241, 234, 234);
 }
+ @media(max-width:992px){
+        .drop-1{
+            flex-direction: column;
+        }
+        .drop-12{
+            background-color: white;
+        }
+    }
 @media(max-width:992px){
     .dropdown-menu{
         flex-direction: column;
